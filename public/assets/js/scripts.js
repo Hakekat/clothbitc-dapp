@@ -1,6 +1,3 @@
-/*!
- * ICOCrypto v1.9.2 by Softnio. 
- **/
 var NioApp = (function(jQ, win, doc) {
     "use strict";
     var NioApp = {
